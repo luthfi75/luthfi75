@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 About Me<br><br>🔭 Building:<br>Interactive, modern, and clean front-end experiences<br><br>🎨 Crafting:<br>Smooth UI animations with GSAP, micro-interactions, and modern CSS<br><br>🌿 Learning:<br>Deeper JavaScript patterns and modern front-end workflows<br><br>🤝 Collab:<br>Anyone who loves experimenting with creative web ideas<br><br>💬 Chat:<br>Front-end dev, animation logic, or turning concepts into polished interfaces<br><br>⚡ Extra:<br>I enjoy making tiny UI details feel alive
+🔭 Building:<br>Interactive, modern, and clean front-end experiences<br><br>🎨 Crafting:<br>Smooth UI animations with GSAP, micro-interactions, and modern CSS<br><br>🌿 Learning:<br>Deeper JavaScript patterns and modern front-end workflows<br><br>🤝 Collab:<br>Anyone who loves experimenting with creative web ideas<br><br>💬 Chat:<br>Front-end dev, animation logic, or turning concepts into polished interfaces<br><br>⚡ Extra:<br>I enjoy making tiny UI details feel alive
 
 
 ## 🌐 Socials:
